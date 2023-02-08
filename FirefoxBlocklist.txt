@@ -1,10 +1,10 @@
-0.0.0.0 aus2.mozilla.org
-0.0.0.0 aus5.mozilla.org
-0.0.0.0 versioncheck-bg.addons.mozilla.org 
-0.0.0.0 services.addons.mozilla.org 
-0.0.0.0 ocsp.digicert.com 
-0.0.0.0 download.mozilla.org 
-0.0.0.0 versioncheck.addons.mozilla.org 
-0.0.0.0 blocklist.addons.mozilla.org 
-0.0.0.0 addons.mozilla.org 
-0.0.0.0 ssl-ocsp.mozilla.org
+aus2.mozilla.org
+aus5.mozilla.org
+versioncheck-bg.addons.mozilla.org 
+services.addons.mozilla.org 
+ocsp.digicert.com 
+download.mozilla.org 
+versioncheck.addons.mozilla.org 
+blocklist.addons.mozilla.org 
+addons.mozilla.org 
+ssl-ocsp.mozilla.org
